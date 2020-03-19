@@ -21,6 +21,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 
 PRODUCT_NAME := aosp_f8131
 PRODUCT_DEVICE := dora
-PRODUCT_MODEL := Xperia X Performance (AOSP)
+PRODUCT_MODEL := Xperia X Performance
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony

@@ -23,6 +23,6 @@ $(call inherit-product, device/sony/dora/aosp_f8131.mk)
 
 PRODUCT_NAME := aosp_f8132
 PRODUCT_DEVICE := dora
-PRODUCT_MODEL := Xperia X Performance Dual (AOSP)
+PRODUCT_MODEL := Xperia X Performance
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
