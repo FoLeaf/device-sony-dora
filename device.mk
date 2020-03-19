@@ -71,10 +71,6 @@ PRODUCT_PACKAGES += \
     init.recovery.dora \
     init.dora
 
-# Simple PowerHAL
-PRODUCT_PACKAGES += \
-    power.dora
-
 # NFC config
 PRODUCT_PACKAGES += \
     nfc_nci.dora
