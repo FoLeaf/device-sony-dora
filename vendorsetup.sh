@@ -14,7 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_f8131-eng
-add_lunch_combo aosp_f8131-userdebug
-add_lunch_combo aosp_f8132-eng
-add_lunch_combo aosp_f8132-userdebug
+add_lunch_combo lineage_dora-userdebug
+add_lunch_combo lineage_dora-eng
