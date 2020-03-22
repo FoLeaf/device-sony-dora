@@ -14,6 +14,9 @@
 
 TARGET_KERNEL_CONFIG := aosp_tone_dora_defconfig
 
+TARGET_SCREEN_WIDTH := 1080
+TARGET_SCREEN_HEIGHT := 1920
+
 # Inherit from those products. Most specific first.
 $(call inherit-product, device/sony/dora/device.mk)
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)

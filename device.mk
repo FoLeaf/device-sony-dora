@@ -99,7 +99,7 @@ $(call inherit-product, device/sony/tone/platform.mk)
 $(call inherit-product-if-exists, vendor/broadcom/wlan/bcmdhd/firmware/bcm4359/device-bcm-vendor.mk)
 
 # copy NFC firmware
-$(call inherit-product-if-exists, vendor/nxp/nxp-vendor.mk)
+$(call inherit-product-if-exists, vendor/nxp/sony/nxp-vendor.mk)
 
 # include board vendor blobs
 $(call inherit-product-if-exists, vendor/sony/tone-common/tone-partial.mk)
