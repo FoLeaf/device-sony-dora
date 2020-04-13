@@ -15,7 +15,5 @@
 PRODUCT_MAKEFILES := $(LOCAL_DIR)/lineage_dora.mk
 
 COMMON_LUNCH_CHOICES += \
-    aosp_f8131-eng \
-    aosp_f8131-userdebug \
-    aosp_f8132-eng \
-    aosp_f8132-userdebug
+    lineage_dora-eng \
+    lineage_dora-userdebug
